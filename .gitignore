@@ -2,5 +2,8 @@ node_modules/
 esm/
 lib/
 dist/
-mywujie/
+.vscode/
+package-lock.json
+pnpm-lock.yaml
+
 Qiankun/
