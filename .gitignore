@@ -5,5 +5,3 @@ dist/
 .vscode/
 package-lock.json
 pnpm-lock.yaml
-
-Qiankun/umi-app/
